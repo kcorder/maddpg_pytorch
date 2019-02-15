@@ -1,0 +1,14 @@
+
+# exclude ipython notebooks 
+*.ipynb
+
+*.egg-info
+
+.commitMsg
+
+*__pycache__/
+*.idea/
+
+# *images/
+
+
